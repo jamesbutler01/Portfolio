@@ -17,7 +17,7 @@ Everything is original, independent work I have completed that has been (or will
 
 
 - ### Data processing
-    -  [Extracting discrete eye movements from continuous eye tracking data](https://github.com/jamesbutler01/Portfolio/blob/main/Processing%20eye%20data/eye%20tracking%20analysis.ipynb): Cleaning of noisy eye tracking recordings of eye x and y positions  to extract the discrete eye movements ('saccades') that occur. 
+    -  [Extracting discrete eye movements from continuous eye tracking data](https://github.com/jamesbutler01/Portfolio/blob/main/Processing%20eye%20data/eye%20tracking%20analysis.ipynb): Processing of noisy eye-tracking data (eye x and y positions recorded at 1 kHz) to extract the discrete eye movements ('saccades') that occur. 
 
 
 - ### Software engineering
