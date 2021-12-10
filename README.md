@@ -1,5 +1,5 @@
 # Portfolio
-I'm a Computational Neuroscientist at University College London (UCL). My work focuses on how neurons within the brain encode information, particularly the value of objects. 
+I'm a Computational Neuroscientist at University College London (UCL). My work focuses on how neural networks encode information, particularly with respect to value. 
 
 Please find here a few examples of the kind of research that I do.
 
