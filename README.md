@@ -6,8 +6,8 @@ Please find here a few examples my research projects.
 ## Contents
 
  - ### Machine learning
-
-    - [Supervised learing: Neurons encode the value of objects using a linear scale](https:github.com): Modelling neuron firing rates within a network reveals individual neurons  ramp their firing rates depending on the value of the object they are viewing
+    - #### Supervised learning
+        - [Neurons encode the value of objects using a linear scale](https:github.com): Modelling neuron firing rates within a network reveals individual neurons  ramp their firing rates depending on the value of the object they are viewing
     - 
 
 
