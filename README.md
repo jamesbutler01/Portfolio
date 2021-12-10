@@ -7,9 +7,9 @@ Please find here a few examples my research projects.
 
  - ### Machine learning
 
-    - [Supervised learing: Neurons encode the value of objects using a linear scale](https:github.com): Modelling how neurons respond when viewing objects of different value reveals that they ramp their firing rates depending on the value of the object
+    - [Supervised learing: Neurons encode the value of objects using a linear scale](https:github.com): Modelling neuron firing rates within a network reveals individual neurons  ramp their firing rates depending on the value of the object they are viewing
     - 
 
 
 - ### Data processing
-    -  [Extracting discrete eye movements from continuous eye tracking data](https://github.com/jamesbutler01/Portfolio/blob/main/Processing%20eye%20data/eye%20tracking%20analysis.ipynb): Cleaning of noisy continuous eye tracking recordings of an eye's x and y position in order to extract the discrete eye movements ('saccades') that occur. 
+    -  [Extracting discrete eye movements from continuous eye tracking data](https://github.com/jamesbutler01/Portfolio/blob/main/Processing%20eye%20data/eye%20tracking%20analysis.ipynb): Cleaning of noisy eye tracking recordings of eye x and y positions  to extract the discrete eye movements ('saccades') that occur. 
