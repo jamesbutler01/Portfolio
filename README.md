@@ -9,7 +9,7 @@ Everything is original, independent work I have completed that has been (or will
 
  - ### Data Science
     - #### Supervised learning
-        - [Neurons encode the value of objects using a linear scale](https:github.com): Modelling neuron firing rates using GLMs reveals individual neurons ramp up or down their firing rates depending on the value of the objects.
+        - [Neurons can encode the value of multiple objects simultaneously](https:github.com): Modelling firing rates using GLMs and statistics reveals neurons in the brain can respond to the value of at least 4 different objects in our peripheral vision, simultaneously.
         - [Using logistic regression to predict where a monkey will look](https:github.com): Model comparison of different independent variables demonstrated that the value of objects in our peripheral vision influences where we will next look.
         - [Decoding what a monkey will choose using SVM](https:github.com): Neural activity in certain regions predicts what option an monkey will choose trial-by-trial, as evidenced by SVM decoding on neural firing rates.
      - #### Unsupervised learning
