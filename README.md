@@ -7,7 +7,7 @@ Everything is original, independent work I have completed that has been (or will
 
  - ### Machine learning
     - #### Supervised learning
-	- [Neurons can encode the value of multiple objects simultaneously](https://github.com/jamesbutler01/Portfolio/blob/main/Simultaneous%20value%20coding/NeuronValueCoding.ipynb): Modelling firing rates using GLMs and statistics reveals neurons in the brain can respond to the value of at least 4 different objects in our peripheral vision, simultaneously.
+        - [Neurons can encode the value of multiple objects simultaneously]w: Modelling firing rates using GLMs and statistics reveals neurons in the brain can respond to the value of at least 4 different objects in our peripheral vision, simultaneously.
         - [Using logistic regression to predict where a monkey will look](https://github.com/jamesbutler01/Portfolio/blob/main/Predicting%20eye%20movements/Predicting%20eye%20movements.ipynb): Model comparison and feature selection demonstrates we can evaluate items in our peripheral vision to decide where to look.
      - #### Unsupervised learning
         -  [Dimensionality reduction to reveal how neural networks encode information](https:github.com): Using PCA and Pearson r, I demonstrate that neurons can rotate their encoding of information to orthogonalize it when necessary.
