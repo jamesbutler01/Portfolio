@@ -1,5 +1,5 @@
 # Portfolio
-Please find here a few examples of my projects while a Computational Neuroscientist at University College London (UCL). My work focuses on how neural networks encode information, particularly with respect to value. 
+A few examples of my projects carried out as a Computational Neuroscientist at University College London (UCL). My work focuses on how neural networks encode information, particularly with respect to value. 
 
 Everything is original, independent work I have completed that has been (or will be) submitted to high impact peer-reviewed journals. Feel free to get in touch if you have any questions! 
 
