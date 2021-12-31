@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import scipy
 
-labels = 'Cue looked at', 'Neighbouring cue', 'Far cue #1', 'Far cue #2'
+labels = 'Cue looked at', 'Near cue', 'Far cue #1', 'Far cue #2'
 
 def plot1(avg, sem, t, p):
     lab = f't={np.round(t,2)}\np={np.round(p,4)}'
